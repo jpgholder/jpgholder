@@ -1,3 +1,2 @@
 ### Gm ✋
-- Web3 developer ⌨️
-- Jpg degen tokens enjoyer ⛱
+Web3 Fullstack developer ⌨️
